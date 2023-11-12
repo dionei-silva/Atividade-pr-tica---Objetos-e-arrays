@@ -6,7 +6,6 @@ Exercícios de fixação do programa de formação despertar dev da GROWDEV.
 
 - Objetos
 - Funções
-- DOM
 
 ## Tecnologias Utilizadas
 
